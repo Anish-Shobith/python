@@ -129,6 +129,5 @@ dmypy.json
 .pyre/
 
 # Stuff
-Scripts/
-pyvenv.cfg
+.vscode
 
